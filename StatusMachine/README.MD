@@ -7,9 +7,13 @@ allprojects {
 
 
 
+
+
 dependencies {
 	        compile 'com.github.soarspaceandroid:Machine:1.0'
 	}
+
+
 
 
 
